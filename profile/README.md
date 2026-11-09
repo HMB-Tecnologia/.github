@@ -1,12 +1,31 @@
-## Hi there 👋
+# HMB Tecnologia
 
-<!--
+### Tecnologia, engenharia e evolução contínua.
 
-**Here are some ideas to get you started:**
+A **HMB Tecnologia** é uma organização dedicada ao desenvolvimento e à manutenção de soluções de software.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Este espaço reúne repositórios e iniciativas técnicas da organização, com foco em boas práticas de engenharia, colaboração e evolução sustentável de sistemas.
+
+---
+
+## O que valorizamos
+
+- **Qualidade de software** — Soluções legíveis, testáveis e sustentáveis.
+- **Segurança** — Proteção de informações e controle responsável de acesso.
+- **Confiabilidade** — Operações consistentes e tratamento adequado de falhas.
+- **Integração** — Comunicação eficiente entre aplicações, serviços e plataformas.
+- **Melhoria contínua** — Evolução técnica baseada em necessidades reais e evidências.
+
+## Engenharia e desenvolvimento
+
+Adotamos princípios de organização do código, revisão de mudanças, rastreabilidade e documentação, respeitando as necessidades de cada projeto.
+
+As tecnologias e os processos podem variar conforme o produto, o cliente e o ambiente operacional.
+
+## Colaboração
+
+A documentação institucional de engenharia e segurança está disponível no repositório [HMB-Tecnologia/.github](https://github.com/HMB-Tecnologia/.github).
+
+---
+
+*HMB Tecnologia — Compromisso com a evolução do software.*
